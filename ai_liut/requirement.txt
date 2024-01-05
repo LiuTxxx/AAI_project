@@ -1,0 +1,9 @@
+# python == 3.11
+
+torch
+torchvision
+pandas
+numpy
+matplot
+scikit-learn
+
